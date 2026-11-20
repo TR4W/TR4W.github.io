@@ -1,0 +1,16 @@
+{
+  "schema_version": 2,
+  "built_at_utc": "2026-11-19T04:27:13Z",
+  "fcc_source_url": "https://data.fcc.gov/download/pub/uls/complete/l_amat.zip",
+  "fcc_source_last_modified": "Sun, 15 Nov 2026 14:09:11 GMT",
+  "ised_source_url": "https://apc-cap.ic.gc.ca/datafiles/amateur_delim.zip",
+  "ised_source_last_modified": "Wed, 18 Nov 2026 07:00:01 GMT",
+  "crosswalk_sha256": "e781d5abadabafa858bccc09d3c75d296ca12150944478972b071bc589cd0230",
+  "row_count": 914361,
+  "db_file": "fcc_lookup.sqlite",
+  "db_size": 88100864,
+  "db_sha256": "b7e8c6353a64fdcf7171b6bb2d7bea35e80c496ccef71cb54ae9cc0c12214e44",
+  "gz_file": "fcc_lookup.sqlite.gz",
+  "gz_size": 33392269,
+  "gz_sha256": "e3c59f46191430f103ca799e1327956cfc90edfdd496d84675eff5771552f283"
+}
