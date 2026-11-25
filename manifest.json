@@ -1,16 +1,16 @@
 {
   "schema_version": 2,
-  "built_at_utc": "2026-11-20T16:21:40Z",
+  "built_at_utc": "2026-11-25T00:41:06Z",
   "fcc_source_url": "https://data.fcc.gov/download/pub/uls/complete/l_amat.zip",
-  "fcc_source_last_modified": "Sun, 15 Nov 2026 14:09:11 GMT",
+  "fcc_source_last_modified": "Sun, 22 Nov 2026 14:42:20 GMT",
   "ised_source_url": "https://apc-cap.ic.gc.ca/datafiles/amateur_delim.zip",
-  "ised_source_last_modified": "Fri, 20 Nov 2026 07:00:02 GMT",
+  "ised_source_last_modified": "Tue, 24 Nov 2026 07:00:01 GMT",
   "crosswalk_sha256": "e781d5abadabafa858bccc09d3c75d296ca12150944478972b071bc589cd0230",
-  "row_count": 914381,
+  "row_count": 914393,
   "db_file": "fcc_lookup.sqlite",
-  "db_size": 88100864,
-  "db_sha256": "7ba4764597f5124e20c2f694fad128993743fad66e925ed3e5e6a7646d51613c",
+  "db_size": 88104960,
+  "db_sha256": "b2754d24073fbe408659a92d46de2c5c9d825f100b220ab053a89b6dfd458e84",
   "gz_file": "fcc_lookup.sqlite.gz",
-  "gz_size": 33392853,
-  "gz_sha256": "f565e41f2df1eb000817033cbc7ded9f786e45dd5b81256dd745bc6c03187801"
+  "gz_size": 33396835,
+  "gz_sha256": "f8fc9842fb7a9411fcaad7ddc0e2a168adc901b2ee03ef3fddb683125b1fdf62"
 }
